@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+*.env.local
+uploads/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.log
+coverage/
+.nyc_output/
